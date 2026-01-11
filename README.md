@@ -1,7 +1,7 @@
 # BLM101_25360859060_Nazan-şal
 Bilgisayar bilimlerine giriş dersi proje ödevi içindir
-Kodun linki :
-https://onlinegdb.com/T6vPuWrm3
+
+Sunumum proje taslak adlı dosyada
 
 Öğrenci Bilgileri: Nazan Şal,25360859060
  Proje Konusu: Veri Depolama ve Sayısal Sistemler
